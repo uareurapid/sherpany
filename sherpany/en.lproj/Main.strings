@@ -1,0 +1,39 @@
+
+/* Class = "UIButton"; normalTitle = "List Sherpany Users"; ObjectID = "5wv-Og-7WC"; */
+"5wv-Og-7WC.normalTitle" = "List Sherpany Users";
+
+/* Class = "UITableViewController"; title = "Users"; ObjectID = "CLe-tI-0MB"; */
+"CLe-tI-0MB.title" = "Users";
+
+/* Class = "UINavigationItem"; title = "User Albums"; ObjectID = "F4j-Ja-qaA"; */
+"F4j-Ja-qaA.title" = "User Albums";
+
+/* Class = "UITableViewController"; title = "Photos"; ObjectID = "KVf-k1-CeR"; */
+"KVf-k1-CeR.title" = "Photos";
+
+/* Class = "UINavigationItem"; title = "Users"; ObjectID = "KwQ-8z-0cx"; */
+"KwQ-8z-0cx.title" = "Users";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "PTm-Ez-ROz"; */
+"PTm-Ez-ROz.text" = "Email:";
+
+/* Class = "UIBarButtonItem"; title = "Albums"; ObjectID = "QII-gY-Li0"; */
+"QII-gY-Li0.title" = "Albums";
+
+/* Class = "UINavigationItem"; title = "Photos"; ObjectID = "Rww-R9-xxD"; */
+"Rww-R9-xxD.title" = "Photos";
+
+/* Class = "UILabel"; text = "Album name:"; ObjectID = "TAK-PE-VKX"; */
+"TAK-PE-VKX.text" = "Album name:";
+
+/* Class = "UIBarButtonItem"; title = "Users"; ObjectID = "bhE-Eq-1df"; */
+"bhE-Eq-1df.title" = "Users";
+
+/* Class = "UILabel"; text = "Company catch phrase:"; ObjectID = "jvm-jT-00E"; */
+"jvm-jT-00E.text" = "Company catch phrase:";
+
+/* Class = "UITableViewController"; title = "Albums"; ObjectID = "us6-lY-6X9"; */
+"us6-lY-6X9.title" = "Albums";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "xJ1-ro-chj"; */
+"xJ1-ro-chj.text" = "Name:";
